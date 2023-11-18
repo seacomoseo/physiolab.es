@@ -1,0 +1,25 @@
+title: We
+icon: circle-info
+bg: ''
+size: md
+rows:
+- type: columns
+  design:
+    num: 5
+    gap: 3
+    align_y: center
+    title: null
+    uppercase: true
+    underline: true
+  items:
+  - image: ella.jpg
+    span: 2
+  - span: 3
+    description: |
+      At our center, we are dedicated to providing a comprehensive approach to the treatment of our patients and their various pathologies. Our mission is to help them achieve an optimal state of health and well-being, supporting them in their progress throughout their daily lives.
+
+      What sets us apart is our commitment to continuing education at the postgraduate level. We strive to stay current with the most recent advances in the field of physical therapy and osteopathy, allowing us to offer our patients a comprehensive and up-to-date knowledge in the treatment of a wide variety of injuries and conditions.
+
+      Our passion for constant improvement and personalized attention drives us to provide our patients with the best quality of care possible. Trust us to take care of your health and well-being in a comprehensive manner.
+    more:
+      align: left

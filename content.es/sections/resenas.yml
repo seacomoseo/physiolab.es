@@ -1,0 +1,41 @@
+title: Reseñas
+icon: comment
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Estefania
+    description: |
+      Sin duda mi primera clase de pilares que tanto necesitaba.Porque a veces nos olvidamos lo importante que es la salud, bienestar y sentirnos bien.
+
+      Un trato personalizado  y único.
+
+      Muy satisfecha con el resultado y trabajo para mi cuerpo y alma.
+
+      Muchas gracias Maria por ayudar a sentirme que  los momentos dedicados a uno mismo son necesarios y prioritarios.Lo recomiendo 100%.
+
+      Aquellas madres que no tenemos el tiempo que nos gustaría y que tanto se necesitamos.
+
+      Gracias🦋
+  - title: Geles M.
+    description: |
+      Excelente profesional, trato inmejorable, muchas gracias María por tu ayuda para mis problemas cervicales, sin duda la mejor, recomendable💯
+  - title: Natalia T.
+    description: |
+      Muy buen trato y mucha profesionalidad, ya es mi clínica de confianza, lo recomiendo mucho, me ha ayudado mucho con mi dolor de espalda y mis calambres durante el embarazo.
+  - title: Jose M.
+    description: |
+      Excelente profesional.
+
+      Tratamientos muy eficaces.
+
+      Excelente trato.
+
+      Un 10.
+- type: columns
+  items:
+  - description: |
+      [btn icon-star Más reseñas](https://g.page/r/CU-EHorUPyDQEAI/review "noindex")

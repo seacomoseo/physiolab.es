@@ -1,0 +1,37 @@
+title: Servicios
+icon: hand-holding-medical
+bg: asistir.jpg
+rows:
+- type: columns
+  design:
+    num: 3
+    color: white
+    ratio: 3x2
+    grayscale: true
+    inset: true
+    underline: true
+  items:
+  - title: Fisioterapia
+    image: phy.jpg
+    description: |
+      Nuestro enfoque es personalizado y centrado en ti. Evaluamos tus necesidades individuales, prevenimos lesiones y te guiamos en tu recuperación. Utilizamos terapia manual y movimiento para tu bienestar.
+  - title: Pilates
+    image: pilat.jpg
+    description: |
+      Pilates es un ejercicio completo que fortalece, estira y equilibra tu cuerpo mientras te enfocas en la respiración, el control postural y la relajación. Es seguro incluso para la rehabilitación de lesiones.
+  - title: Osteopatía
+    image: osteopatia.jpg
+    description: |
+      La osteopatía es una terapia complementaria que utiliza técnicas manuales para normalizar tu cuerpo. Desde estiramientos hasta manipulaciones, trabajamos en tu musculatura, estructuras esqueléticas, viscerales y craneales.
+  - title: Hipopresivos
+    image: hipo.jpg
+    description: |
+      Estos ejercicios fortalecen tu abdomen, espalda baja y suelo pélvico mientras mejoran la circulación y la capacidad respiratoria.
+  - title: Tratamiento y Rehabilitación de Lesiones
+    image: ejercicios.jpg
+    description: |
+      Te proporcionaremos la mejor solución para tu patología. Nuestro diagnóstico preciso y un plan de recuperación adaptado a ti te ayudarán a mejorar.
+  - title: Fisioterapia Pediátrica
+    image: bebe.jpg
+    description: |
+      Acompañamos a tu bebé en su desarrollo neurofisiológico y tratamos patologías como tortícolis congénita o cólico del lactante. También apoyamos a las familias, quienes son fundamentales para los más pequeños

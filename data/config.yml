@@ -1,0 +1,44 @@
+title: Physiolab
+description: Clínica de Fisioterapia y Osteopatía en Cartagena
+logo: logo-alt.svg
+legal_name: Physiolab
+legal_dni: 23056895Q
+legal_email: ''
+legal_location: ''
+country: España
+location_type:
+- LocalBusiness
+- Organization
+alternate_name:
+- Physiolab - Clínica de Fisioterapia y Osteopatía en Cartagena
+- Physiolab - Clínica de Fisioterapia y Osteopatía
+- Physiolab - Centro de Fisioterapia y Osteopatía en Cartagena
+- Physiolab - Centro de Fisioterapia y Osteopatía
+price_range: €€
+google_analytics: G-W2WL0K2CYK
+google_site_verification: ''
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: ''
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social:
+- link: https://www.instagram.com/physiolab_fisioterapia/
+- link: https://g.page/r/CU-EHorUPyDQEAI
+en:
+  description: Physiotherapy and Osteopathic Clinic in Cartagena

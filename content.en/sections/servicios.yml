@@ -1,0 +1,37 @@
+title: Services
+icon: hand-holding-medical
+bg: asistir.jpg
+rows:
+- type: columns
+  design:
+    num: 3
+    color: white
+    ratio: 3x2
+    grayscale: true
+    inset: true
+    underline: true
+  items:
+  - title: Physiotherapy
+    image: phy.jpg
+    description: |
+      Our approach is personalized and focused on you. We assess your individual needs, prevent injuries and guide you in your recovery. We use manual therapy and movement for your wellness.
+  - title: Pilates
+    image: pilat.jpg
+    description: |
+      Pilates is a complete exercise that strengthens, stretches and balances your body while focusing on breathing, postural control and relaxation. It is even safe for injury rehabilitation.
+  - title: Osteopathy
+    image: osteopatia.jpg
+    description: |
+      Osteopathy is a complementary therapy that uses manual techniques to normalize your body. From stretching to manipulations, we work on your musculature, skeletal, visceral and cranial structures.
+  - title: Hypopressive
+    image: hipo.jpg
+    description: |
+      These exercises strengthen your abdomen, lower back and pelvic floor while improving circulation and breathing capacity.
+  - title: Injury Treatment and Rehabilitation
+    image: ejercicios.jpg
+    description: |
+      We will provide you with the best solution for your condition. Our accurate diagnosis and a tailored recovery plan will help you get better.
+  - title: Pediatric Physiotherapy
+    image: bebe.jpg
+    description: |
+      We accompany your baby in his neurophysiological development and treat pathologies such as congenital torticollis or infant colic. We also support families, who are fundamental for the little ones.

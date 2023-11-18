@@ -1,0 +1,51 @@
+title: Contacto
+button: link
+size: sm
+icon: paper-plane
+more:
+  flip_y: false
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Lunes a Viernes
+    hours: 8:00 - 20:00
+  - type: br
+  - type: phone
+    label: 604 39 78 63
+  - type: whatsapp
+    label: 604 39 78 63
+    button: link
+  - type: mail
+    label: physiolab.fisioterapia@gmail.com
+    full: true
+  - type: address
+    active: true
+    name: Physiolab - Clínica de Fisioterapia y Osteopatía en Cartagena
+    streetAddress: Calle Vereda de San Félix, 64
+    postalCode: 30300
+    addressLocality: Cartagena
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-0.9884090, 37.6295250]}'
+  form:
+    fill_inputs: true
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: tel
+      name: Teléfono
+      required: true
+    - type: email
+      name: Horario
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true
+  map:
+    active: true
+    link: https://g.page/r/CU-EHorUPyDQEAI

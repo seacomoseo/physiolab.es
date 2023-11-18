@@ -1,0 +1,28 @@
+id: por-que
+title: Why us?
+icon: sparkles
+rows:
+- type: steps
+  design:
+    underline: true
+  items:
+  - icon: handshake-simple
+    title: Commitment to Proximity and Communication
+    description: |
+      At our center, we believe in the importance of closeness to our patients. We take the time to listen to you, understand you and answer all your questions. We encourage open and constant communication so that you always feel supported and understood.
+  - icon: book-open
+    title: Continuing Education for Your Improvement
+    description: |
+      Our commitment to excellence is reflected in our constant search for knowledge. We keep up to date with the latest research and techniques in physiotherapy and osteopathy through continuing education. This allows us to offer you evidence-based treatments and more effective results.
+  - icon: heart-circle-plus
+    title: Humility in Service
+    description: |
+      Humility is a fundamental value in our approach. We know that each patient is unique, and we treat everyone with the respect and attention they deserve. Our goal is to work with you, tailoring our methods to your individual needs to achieve the best possible results.
+  - icon: ranking-star
+    title: Results that Speak for Themselves
+    description: |
+      We are proud of the success our patients have experienced over the years. Our results and patient testimonials are a testament to our unwavering commitment to your health and well-being. Your satisfaction and improvement are our greatest reward.
+  - icon: shoe-prints
+    title: A Community of Care and Support
+    description: |
+      More than a clinic, we are a community of care and support. We work closely with you to set realistic and achievable goals and accompany you every step of the way to your recovery and lasting wellness.

@@ -1,0 +1,25 @@
+title: Nosotros
+icon: circle-info
+bg: ''
+size: md
+rows:
+- type: columns
+  design:
+    num: 5
+    gap: 3
+    align_y: center
+    title: null
+    uppercase: true
+    underline: true
+  items:
+  - image: ella.jpg
+    span: 2
+  - span: 3
+    description: |
+      En nuestro centro, nos dedicamos a brindar un enfoque integral en el tratamiento de nuestros pacientes y sus diversas patologías. Nuestra misión es ayudarles a alcanzar un óptimo estado de salud y bienestar, respaldándolos en su progreso a lo largo de su vida cotidiana.
+
+      Lo que nos distingue es nuestro compromiso con la formación continua a nivel de posgrado. Nos esforzamos por mantenernos actualizados con los avances más recientes en el campo de la fisioterapia y la osteopatía, lo que nos permite ofrecer a nuestros pacientes un conocimiento amplio y actualizado en el tratamiento de una amplia variedad de lesiones y afecciones.
+
+      Nuestra pasión por la mejora constante y la atención personalizada nos impulsa a proporcionar a nuestros pacientes la mejor calidad de atención posible. Confía en nosotros para cuidar de tu salud y bienestar de manera integral.
+    more:
+      align: left

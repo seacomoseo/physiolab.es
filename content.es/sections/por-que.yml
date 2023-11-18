@@ -1,0 +1,28 @@
+id: por-que
+title: ¿Por qué nosotros?
+icon: sparkles
+rows:
+- type: steps
+  design:
+    underline: true
+  items:
+  - icon: handshake-simple
+    title: Compromiso con la Cercanía y la Comunicación
+    description: |
+      En nuestro centro, creemos en la importancia de la cercanía con nuestros pacientes. Nos tomamos el tiempo necesario para escucharte, entenderte y responder a todas tus preguntas. Fomentamos una comunicación abierta y constante para que te sientas siempre respaldado y comprendido.
+  - icon: book-open
+    title: Formación Continua para tu Mejoría
+    description: |
+      Nuestro compromiso con la excelencia se refleja en nuestra búsqueda constante de conocimiento. Nos mantenemos actualizados con las últimas investigaciones y técnicas en fisioterapia y osteopatía a través de la formación continua. Esto nos permite ofrecerte tratamientos basados en la evidencia y resultados más efectivos.
+  - icon: heart-circle-plus
+    title: Humildad en el Servicio
+    description: |
+      La humildad es un valor fundamental en nuestro enfoque. Sabemos que cada paciente es único, y tratamos a todos con el respeto y la atención que merecen. Nuestro objetivo es trabajar contigo, adaptando nuestros métodos a tus necesidades individuales para lograr los mejores resultados posibles.
+  - icon: ranking-star
+    title: Resultados que Hablan por Sí Mismos
+    description: |
+      Nos enorgullece el éxito que nuestros pacientes han experimentado a lo largo de los años. Nuestros resultados y testimonios de pacientes son el testimonio de nuestro compromiso inquebrantable con tu salud y bienestar. Tu satisfacción y mejora son nuestra mayor recompensa.
+  - icon: shoe-prints
+    title: Una Comunidad de Cuidado y Apoyo
+    description: |
+      Más que una clínica, somos una comunidad de cuidado y apoyo. Trabajamos en estrecha colaboración contigo para establecer objetivos realistas y alcanzables, y te acompañamos en cada paso del camino hacia tu recuperación y bienestar duradero.

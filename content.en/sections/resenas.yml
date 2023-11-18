@@ -1,0 +1,41 @@
+title: Reviews
+icon: comment
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Estefania
+    description: |
+      Without a doubt my first pillar class that I needed so much.because sometimes we forget how important health, wellness and feeling good is.
+
+      A personalized and unique treatment.
+
+      Very satisfied with the result and work for my body and soul.
+
+      Thank you very much Maria for helping me to feel that the moments dedicated to oneself are necessary and a priority, I recommend it 100%.
+
+      Those of us mothers who don't have the time we would like and need so much.
+
+      Thank you🦋
+  - title: Geles M.
+    description: |
+      Excellent professional, unbeatable treatment, thank you very much Maria for your help for my cervical problems, without a doubt the best, recommended💯
+  - title: Natalia T.
+    description: |
+      Very good treatment and a lot of professionalism, it is already my trusted clinic, I highly recommend it, it has helped me a lot with my back pain and my cramps during pregnancy.
+  - title: Jose M.
+    description: |
+      Excellent professional.
+
+      Very effective treatments.
+
+      Excellent treatment.
+
+      A 10.
+- type: columns
+  items:
+  - description: |
+      [btn icon-star More reviews](https://g.page/r/CU-EHorUPyDQEAI/review "noindex")

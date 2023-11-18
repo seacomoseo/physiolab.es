@@ -1,0 +1,71 @@
+icons:
+  type: light
+  emojis: ''
+  emojis_default: false
+fonts:
+  google: false
+  base:
+    family: Open Sans
+    weight: 400
+    strong: 0
+    italic: false
+    line-height: 1.25
+  cursive:
+    family: Open Sans
+    weight: 400
+    strong: 0
+    italic: true
+    line-height: 1.25
+    top: 0
+  title:
+    family: Modern Age
+    weight: 400
+    strong: 0
+    italic: false
+    line-height: 1.25
+    top: 0
+  blockquote_cursive: false
+colors:
+  main:
+    color: '#0077c8'
+    light: '#fff'
+    dark: '#fff'
+    contrast: all
+  alt:
+    color: '#908e8e'
+    light: '#fff'
+    dark: '#fff'
+    contrast: all
+  link:
+    color: '#e0065d'
+    light: '#fff'
+    dark: '#fff'
+    contrast: text
+  base:
+    white: '#fff'
+    light: '#e3e3e3'
+    grey: '#767676'
+    dark: '#282525'
+    black: '#000'
+rounded:
+  radius: 1.33
+  chamfer: false
+buttons:
+  sides_round: false
+  icon_circle: false
+  deep: true
+  outline: true
+  font_base: false
+shadow:
+  left: 0.15
+  top: 0.15
+  blur: 0.15
+  color: black
+  opacity: 0.15
+lightbox_overlay:
+  opacity: 0.8
+  color: black
+performance:
+  showup: false
+  parallax: false
+  srcsetx2: true

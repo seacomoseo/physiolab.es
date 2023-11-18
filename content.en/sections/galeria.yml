@@ -1,0 +1,38 @@
+title: Gallery
+icon: camera
+bg: gallery.jpg
+rows:
+- type: gallery
+  design:
+    max: 99
+    num: 3
+    alt: true
+    wrap: false
+    gap: true
+    cover: true
+    grayscale: true
+    button: hide
+  images:
+  - bebe.jpg
+  - instalasion.jpg
+  - osteopatia.jpg
+  - fisioterapia.jpg
+  - ejercicios.jpg
+  - yoga-pilates.jpg
+  - nosotros.jpg
+  - lesiones.jpg
+  - pilat.jpg
+  - hipo.jpg
+  - pediatrica.jpg
+  - physio.jpg
+  - asistir.jpg
+  - osteopatia.jpg
+  - maquina.jpg
+  - phy.jpg
+  - gallery.jpg
+  - baby.jpg
+  - clase.jpg
+  - espalda.jpg
+  - pareja.jpg
+  - piernas.jpg
+  - pelota.jpg
