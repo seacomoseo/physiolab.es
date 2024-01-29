@@ -1,10 +1,5 @@
 anchor: Frase
 color: link-dark
-# description: |
-#   icon-quote-left
-#   Nuestra dedicación a tu bienestar. Te ayudamos a recuperarte y vivir una vida plena y sin dolor.
-#   icon-quote-right
-#   {.subtitle}
 description: |
   > Nuestra dedicación a tu bienestar. Te ayudamos a recuperarte y vivir una vida plena y sin dolor.
 more:
